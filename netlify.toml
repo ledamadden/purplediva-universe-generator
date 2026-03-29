@@ -1,5 +1,2 @@
-
-</>  TOML
-
 [functions]
   directory = "netlify/functions"
